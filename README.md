@@ -1,7 +1,7 @@
 cups-ocr
 ========
 
-Set your desktop background to the astronomy image of the day.
+Generate a text file from any text found in a document sent to this printer.
 Actually first prints to a tiff file.
 Tesseract reads the tiff file outputting a text file,
 which is presented to the user in the spool.
